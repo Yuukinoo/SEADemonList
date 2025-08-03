@@ -8,5 +8,25 @@
     "percentToQualify": 69,
     "password": "234000",
     "records": [
+        {
+            "user": "Rusted",
+            "link": "https://www.youtube.com/watch?v=srX_TUh7LRc",
+            "percent": 100
+        },
+        {
+            "user": "birii",
+            "link": "https://youtu.be/JdLQ-LQ0oF8",
+            "percent": 100
+        },
+        {
+            "user": "Lomeno",
+            "link": "https://www.youtube.com/watch?v=iDi3xrCnaV8",
+            "percent": 100
+        },
+        {
+            "user": "Enter8909",
+            "link": "https://youtu.be/SI9qhKRJGxc",
+            "percent": 100
+        }
     ]
 }
