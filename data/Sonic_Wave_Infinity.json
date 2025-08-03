@@ -8,5 +8,20 @@
     "percentToQualify": 69,
     "password": "None",
     "records": [
+        {
+            "user": "MatsuoIsHere",
+            "link": "https://youtu.be/0J5eFPM9tU4?si=pJjWv1p7MU7GvMPN",
+            "percent": 100
+        },
+        {
+            "user": "Lomeno",
+            "link": "https://www.youtube.com/watch?v=szrwY63VvE0",
+            "percent": 100
+        },
+        {
+            "user": "birii",
+            "link": "https://www.youtube.com/watch?v=j4EaunM7MjI",
+            "percent": 100
+        }
     ]
 }
