@@ -108,3 +108,10 @@ input[type="checkbox"] {
     object-fit: cover;
     vertical-align: middle;
 }
+
+.list .level button {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    width: 100%;
+}

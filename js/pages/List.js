@@ -30,6 +30,7 @@ export default {
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
                             <button @click="selected = i">
+                                <img v-if="level?.country" :src="'/assets/flags/' + level.country.toLowerCase() + '.svg'" :alt="level.country" class="flag-sm">
                                 <span class="type-label-lg">{{ level?.name || 'Error (' + err + '.json)' }}</span>
                             </button>
                         </td>
@@ -57,17 +58,15 @@ export default {
                     <p v-else>This level does not accept new records.</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
-                            <td class="percent">
-                                <p>{{ record.percent }}%</p>
-                            </td>
                             <td class="user">
                                 <div class="player-info">
                                     <img v-if="record.country" :src="'/assets/flags/' + record.country.toLowerCase() + '.svg'" :alt="record.country" class="flag-sm">
                                     <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
+                                    <img v-if="record.mobile" :src="'/assets/phone-landscape' + (store.dark ? '-dark' : '') + '.svg'" alt="Mobile">
                                 </div>
                             </td>
-                            <td class="mobile">
-                                <img v-if="record.mobile" :src="'/assets/phone-landscape' + (store.dark ? '-dark' : '') + '.svg'" alt="Mobile">
+                            <td class="percent">
+                                <p>{{ record.percent }}%</p>
                             </td>
                         </tr>
                     </table>
