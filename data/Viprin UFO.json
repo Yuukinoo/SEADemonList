@@ -2,17 +2,11 @@
     "id": 107238250,
     "name": "Viprin UFO",
     "author": "nothawkrye",
-    "verifier": "Adrian",
-    "country": "Philippines",
-    "verification": "https://www.youtube.com/watch?v=3kfuPMvdzRc",
+    "verifier": "azxprovn",
+    "country": "Vietnam",
+    "verification": "https://youtu.be/2rmEjkQNxlM?si=Q_EJZnM-xXpV5ZFq",
     "percentToQualify": 69,
     "password": "None",
     "records": [
-        {
-            "user": "azxprovn",
-            "link": "https://youtu.be/2rmEjkQNxlM?si=Q_EJZnM-xXpV5ZFq",
-            "country": "Vietnam",
-            "percent": 100
-        }
     ]
 }
