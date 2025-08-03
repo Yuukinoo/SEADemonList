@@ -1,0 +1,18 @@
+{
+    "id": 123892904,
+    "name": "KOCMOC",
+    "author": "cherryteam",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=2CxE-UWCIG4",
+    "percentToQualify": 69,
+    "password": "1",
+    "records": [
+        {
+            "user": "Sangkan",
+            "link": "https://www.youtube.com/watch?v=iELR-t63p6k&list=RDiELR-t63p6k&start_radio=1",
+            "percent": 100,
+            "hz": 1
+        }
+    ]
+}
