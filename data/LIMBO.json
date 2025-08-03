@@ -11,21 +11,19 @@
         {
             "user": "Rusted",
             "link": "https://www.youtube.com/watch?v=srX_TUh7LRc",
+            "country": "Indonesia",
             "percent": 100
         },
         {
             "user": "birii",
             "link": "https://youtu.be/JdLQ-LQ0oF8",
+            "country": "Vietnam",
             "percent": 100
         },
         {
             "user": "Lomeno",
             "link": "https://www.youtube.com/watch?v=iDi3xrCnaV8",
-            "percent": 100
-        },
-        {
-            "user": "Enter8909",
-            "link": "https://youtu.be/SI9qhKRJGxc",
+            "country": "Philippines",
             "percent": 100
         }
     ]
