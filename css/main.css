@@ -98,14 +98,14 @@ input[type="checkbox"] {
 .flag {
     width: 1.33em;
     height: 1em;
-    object-fit: cover;
+    object-fit: fill;
     vertical-align: middle;
 }
 
 .flag-sm {
     width: 1.33em;
     height: 1em;
-    object-fit: cover;
+    object-fit: fill;
     vertical-align: middle;
 }
 
