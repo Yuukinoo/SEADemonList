@@ -8,5 +8,15 @@
     "percentToQualify": 69,
     "password": "None",
     "records": [
+        {
+            "user": "Adrian",
+            "link": "https://www.youtube.com/watch?v=WK2mjdh1XUw",
+            "percent": 100
+        },
+        {
+            "user": "StarXV",
+            "link": "https://www.youtube.com/watch?v=lVDJigFzkp4",
+            "percent": 100
+        }
     ]
 }
