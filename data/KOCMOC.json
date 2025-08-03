@@ -2,17 +2,11 @@
     "id": 123892904,
     "name": "KOCMOC",
     "author": "cherryteam",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "zZoink",
+    "verifier": "Sangkan",
+    "country": "Indonesia",
     "verification": "https://youtu.be/iELR-t63p6k?si=jos4I-iEYphNLhfN",
     "percentToQualify": 69,
     "password": "None",
     "records": [
-        {
-            "user": "Sangkan",
-            "link": "https://youtu.be/iELR-t63p6k?si=jos4I-iEYphNLhfN",
-            "percent": 100,
-            "hz": 1
-        }
     ]
 }

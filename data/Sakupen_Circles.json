@@ -1,18 +1,12 @@
 {
     "id": 76962930,
     "name": "Sakupen Circles",
-    "author": "TheDiamandPizza",
-    "creators": ["Nick24", "DrCuber", "korewa", "Muffy450", "Renn241", "endevvor", "Mzero", "NineDice", "GhostVandalf"],
-    "verifier": "TheDiamondPizza",
+    "author": "TheDiamondPizza",
+    "verifier": "Sangkan",
+    "country": "Indonesia",
     "verification": "https://www.youtube.com/watch?v=sUmXB4HR5N0",
     "percentToQualify": 69,
     "password": "None",
     "records": [
-        {
-            "user": "Sangkan",
-            "link": "https://www.youtube.com/watch?v=sUmXB4HR5N0",
-            "percent": 100,
-            "hz": 1
-        }
     ]
 }

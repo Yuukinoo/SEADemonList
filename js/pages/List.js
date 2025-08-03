@@ -39,7 +39,7 @@ export default {
             <div class="level-container">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
-                    <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
+                    <LevelAuthors :author="level.author" :verifier="level.verifier", :country="level.country"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
@@ -49,10 +49,6 @@ export default {
                         <li>
                             <div class="type-title-sm">ID</div>
                             <p>{{ level.id }}</p>
-                        </li>
-                        <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
@@ -70,11 +66,6 @@ export default {
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
-                            <!--
-                            <td class="hz">
-                                <p>{{ record.hz }}Hz</p>
-                            </td>
-                            -->
                         </tr>
                     </table>
                 </div>
