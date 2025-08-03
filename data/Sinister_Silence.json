@@ -11,11 +11,13 @@
         {
             "user": "Adrian",
             "link": "https://www.youtube.com/watch?v=WK2mjdh1XUw",
+            "country": "Philippines",
             "percent": 100
         },
         {
             "user": "StarXV",
             "link": "https://www.youtube.com/watch?v=lVDJigFzkp4",
+            "country": "Philippines",
             "percent": 100
         }
     ]
