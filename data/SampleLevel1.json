@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
+    "id": 123892904,
+    "name": "KOCMOC",
+    "author": "cherryteam",
     "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=2CxE-UWCIG4",
+    "percentToQualify": 69,
+    "password": "1",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Sangkan",
+            "link": "https://www.youtube.com/watch?v=iELR-t63p6k&list=RDiELR-t63p6k&start_radio=1",
             "percent": 100,
-            "hz": 360
+            "hz": 1
         }
     ]
 }
