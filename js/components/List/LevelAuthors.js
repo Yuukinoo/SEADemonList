@@ -20,11 +20,13 @@ export default {
                 <span>{{ author }}</span>
             </p>
             <div class="type-title-sm">First Victor</div>
-            <p class="type-body">
+            <p class="type-body country-info">
+                <img :src="'/assets/flags/' + country.toLowerCase() + '.svg'" :alt="country" class="flag">
                 <span>{{ verifier }}</span>
             </p>
             <div class="type-title-sm">Country</div>
-            <p class="type-body">
+            <p class="type-body country-info">
+                <img :src="'/assets/flags/' + country.toLowerCase() + '.svg'" :alt="country" class="flag">
                 <span>{{ country }}</span>
             </p>
         </div>

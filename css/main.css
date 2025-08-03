@@ -94,3 +94,17 @@ input[type="checkbox"] {
     cursor: pointer;
     margin: 0;
 }
+
+.flag {
+    width: 1.33em;
+    height: 1em;
+    object-fit: cover;
+    vertical-align: middle;
+}
+
+.flag-sm {
+    width: 1.33em;
+    height: 1em;
+    object-fit: cover;
+    vertical-align: middle;
+}

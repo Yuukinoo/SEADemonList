@@ -20,7 +20,7 @@ export default {
         <main v-else class="page-leaderboard-container">
             <div class="page-leaderboard">
                 <div class="error-container">
-                    <p class="error" v-if="err.length > 0">
+                    <p class="error" v-if="err.length < 0">
                         Leaderboard may be incorrect, as the following levels could not be loaded: {{ err.join(', ') }}
                     </p>
                 </div>
@@ -35,6 +35,7 @@ export default {
                             </td>
                             <td class="user" :class="{ 'active': selected == i }">
                                 <button @click="selected = i">
+                                    <img v-if="ientry.country" :src="'/assets/flags/' + ientry.country.toLowerCase() + '.svg'" :alt="ientry.country" class="flag-sm">
                                     <span class="type-label-lg">{{ ientry.user }}</span>
                                 </button>
                             </td>
@@ -43,7 +44,7 @@ export default {
                 </div>
                 <div class="player-container">
                     <div class="player">
-                        <h1>#{{ selected + 1 }} {{ entry.user }}</h1>
+                        <h1>#{{ selected + 1 }} <img v-if="entry.country" :src="'/assets/flags/' + entry.country.toLowerCase() + '.svg'" :alt="entry.country" class="flag"> {{ entry.user }}</h1>
                         <h3>{{ entry.total }}</h3>
                         <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
                         <table class="table">

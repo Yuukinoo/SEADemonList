@@ -30,7 +30,7 @@ export default {
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
                             <button @click="selected = i">
-                                <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
+                                <span class="type-label-lg">{{ level?.name || 'Error (' + err + '.json)' }}</span>
                             </button>
                         </td>
                     </tr>
@@ -61,10 +61,13 @@ export default {
                                 <p>{{ record.percent }}%</p>
                             </td>
                             <td class="user">
-                                <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
+                                <div class="player-info">
+                                    <img v-if="record.country" :src="'/assets/flags/' + record.country.toLowerCase() + '.svg'" :alt="record.country" class="flag-sm">
+                                    <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
+                                </div>
                             </td>
                             <td class="mobile">
-                                <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
+                                <img v-if="record.mobile" :src="'/assets/phone-landscape' + (store.dark ? '-dark' : '') + '.svg'" alt="Mobile">
                             </td>
                         </tr>
                     </table>
@@ -85,7 +88,7 @@ export default {
                         <h3>List Editors</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
-                                <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
+                                <img :src="'/assets/' + roleIconMap[editor.role] + (store.dark ? '-dark' : '') + '.svg'" :alt="editor.role">
                                 <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
                                 <p v-else>{{ editor.name }}</p>
                             </li>

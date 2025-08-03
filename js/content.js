@@ -65,6 +65,7 @@ export async function fetchLeaderboard() {
             verified: [],
             completed: [],
             progressed: [],
+            country: level.country || null,
         };
         const { verified } = scoreMap[verifier];
         verified.push({
@@ -83,6 +84,7 @@ export async function fetchLeaderboard() {
                 verified: [],
                 completed: [],
                 progressed: [],
+                country: record.country || null,
             };
             const { completed, progressed } = scoreMap[user];
             if (record.percent === 100) {
@@ -122,3 +124,4 @@ export async function fetchLeaderboard() {
     // Sort by total score
     return [res.sort((a, b) => b.total - a.total), errs];
 }
+

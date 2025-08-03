@@ -56,6 +56,7 @@
     grid-template-columns: max-content 1fr;
     grid-auto-rows: max-content;
     gap: 1rem;
+    align-items: center;
 }
 .page-list .level-container .level .video {
     aspect-ratio: 16/9;
@@ -125,4 +126,21 @@
 }
 .page-list .meta .editors li a:hover {
     text-decoration: underline;
+}
+
+.player-info {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.country-info {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.country-info span,
+.player-info a {
+    line-height: 1em;
 }
