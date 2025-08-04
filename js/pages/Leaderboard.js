@@ -2,16 +2,23 @@ import { fetchLeaderboard } from '../content.js';
 import { localize } from '../util.js';
 
 import Spinner from '../components/Spinner.js';
+import Btn from '../components/Btn.js';
+import FilterDialog from '../components/FilterDialog.js';
 
 export default {
     components: {
         Spinner,
+        Btn,
+        FilterDialog,
     },
     data: () => ({
         leaderboard: [],
         loading: true,
         selected: 0,
         err: [],
+        showFilterDialog: false,
+        countries: [],
+        selectedCountries: [],
     }),
     template: `
         <main v-if="loading">
@@ -20,13 +27,17 @@ export default {
         <main v-else class="page-leaderboard-container">
             <div class="page-leaderboard">
                 <div class="error-container">
-                    <p class="error" v-if="err.length > 0">
+                    <p class="error" v-if="err.length > 10">
+                        Leaderboard may be incorrect, as the following levels could not be loaded: {{ err.slice(0, 10).join(', ') }}, ...
+                    </p>
+                    <p class="error" v-else-if="err.length > 0">
                         Leaderboard may be incorrect, as the following levels could not be loaded: {{ err.join(', ') }}
                     </p>
                 </div>
                 <div class="board-container">
+                    <Btn @click="showFilterDialog = true" >Filter</Btn>
                     <table class="board">
-                        <tr v-for="(ientry, i) in leaderboard">
+                        <tr v-for="(ientry, i) in filteredLeaderboard">
                             <td class="rank">
                                 <p class="type-label-lg">#{{ i + 1 }}</p>
                             </td>
@@ -91,17 +102,26 @@ export default {
                     </div>
                 </div>
             </div>
+            <FilterDialog :show="showFilterDialog" :countries="countries" :selected-countries.sync="selectedCountries" @close="showFilterDialog = false" @update:selectedCountries="selectedCountries = $event" />
         </main>
     `,
     computed: {
         entry() {
-            return this.leaderboard[this.selected];
+            return this.filteredLeaderboard[this.selected];
+        },
+        filteredLeaderboard() {
+            if (this.selectedCountries.length === 0) {
+                return this.leaderboard;
+            }
+            return this.leaderboard.filter(player => this.selectedCountries.includes(player.country));
         },
     },
     async mounted() {
         const [leaderboard, err] = await fetchLeaderboard();
         this.leaderboard = leaderboard;
         this.err = err;
+        this.countries = [...new Set(leaderboard.map(player => player.country).filter(Boolean))];
+        this.selectedCountries = [...this.countries];
         // Hide loading spinner
         this.loading = false;
     },

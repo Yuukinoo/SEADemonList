@@ -1,0 +1,46 @@
+.dialog-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dialog {
+    background-color: var(--color-background);
+    padding: 2rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--color-on-background);
+    width: 100%;
+    max-width: 80vmin;
+}
+
+.dialog h3 {
+    margin: clamp(6px, 3vw, 21px) 0 clamp(12px, 6vw, 42px) 0;
+    font-size: clamp(12px, 6vw, 42px);
+    text-align: center;
+}
+
+.dialog ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+    overflow-y: auto;
+}
+
+.dialog li {
+    margin: 5px 0 10px 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.dialog li input {
+    height: clamp(8px, 4vw, 28px);
+}
+.dialog ul li span {
+    font-size: clamp(8px, 4vw, 28px);
+}
