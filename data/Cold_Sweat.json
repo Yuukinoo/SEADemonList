@@ -10,22 +10,20 @@
         {
             "user": "DeathCraft",
             "country": "Singapore",
-            "percent": 69,
+            "percent": 100,
             "link": "https://www.youtube.com/watch?v=dzRf6iRAD0g"
         },
         {
             "user": "Mellopellow",
             "country": "Philippines",
-            "percent": 69,
+            "percent": 100,
             "link": "https://www.youtube.com/watch?v=hUiIlNvCmKQ"
->>>>>>> bd9a879708268d57be19bc6d4851e3993b2df3db
         },
         {
             "user": "DepresseChan",
             "country": "Malaysia",
-            "percent": 69,
+            "percent": 100,
             "link": "https://www.youtube.com/watch?v=Zj9f-etieQY"
->>>>>>> bd9a879708268d57be19bc6d4851e3993b2df3db
         }
     ]
 }
