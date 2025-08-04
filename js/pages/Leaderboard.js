@@ -46,7 +46,7 @@ export default {
                     <div class="player">
                         <h1>#{{ selected + 1 }} <img v-if="entry.country" :src="'/assets/flags/' + entry.country.toLowerCase() + '.svg'" :alt="entry.country" class="flag"> {{ entry.user }}</h1>
                         <h3>{{ entry.total }}</h3>
-                        <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
+                        <h2 v-if="entry.verified.length > 0">First Victor ({{ entry.verified.length}})</h2>
                         <table class="table">
                             <tr v-for="score in entry.verified">
                                 <td class="rank">
