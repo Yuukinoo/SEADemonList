@@ -16,60 +16,11 @@
             "video": "https://www.youtube.com/watch?v=0qEOByQqpkI"
         },
         {
-            "user": "MatsuoIsHere",
-            "date": "24-06-2024",
-            "country": "Philippines",
-            "percent": 100,
-            "video": "https://www.youtube.com/watch?v=58furnA9wGc"
-        },
-        {
-            "user": "Rusted",
-            "date": "07-09-2024",
-            "country": "Indonesia",
-            "percent": 100,
-            "video": "https://www.youtube.com/watch?v=_DmFWaPb1xg"
-        },
-        {
-            "user": "Toxical",
-            "date": "08-03-2025",
-            "country": "Philippines",
-            "percent": 100,
-            "video": "https://www.youtube.com/watch?v=dtU9NTwoRqY"
-        },
-        {
-            "user": "Lomeno",
-            "date": "05-05-2025",
-            "country": "Philippines",
-            "percent": 100,
-            "video": "https://www.youtube.com/watch?v=GoZG3dCDj7E"
-        },
-        {
-            "user": "oshiimaaa",
-            "date": "01-06-2025",
-            "country": "Philippines",
-            "percent": 100,
-            "video": "https://www.youtube.com/watch?v=-WPwE4hpR_A"
-        },
-        {
-            "user": "StarXV",
-            "date": "17-06-2025",
-            "country": "Philippines",
-            "percent": 100,
-            "video": "https://www.youtube.com/watch?v=WpV1E0znsDk"
-        },
-        {
             "user": "swizzleJ",
             "date": "02-07-2023",
             "country": "Singapore",
             "percent": 100,
             "video": "https://www.youtube.com/watch?v=BVfRAm7KpuI"
-        },
-        {
-            "user": "Zathral",
-            "date": "28-03-2025",
-            "country": "Singapore",
-            "percent": 100,
-            "video": "https://www.youtube.com/watch?v=lrjXbxKHjoc"
         },
         {
             "user": "LBoke",
@@ -93,6 +44,13 @@
             "video": "https://youtu.be/DXqWpapx9AQ"
         },
         {
+            "user": "MatsuoIsHere",
+            "date": "24-06-2024",
+            "country": "Philippines",
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=58furnA9wGc"
+        },
+        {
             "user": "Azura",
             "date": "13-08-2024",
             "country": "Vietnam",
@@ -107,11 +65,60 @@
             "video": "https://youtu.be/Rh8jCargSk4"
         },
         {
+            "user": "Rusted",
+            "date": "07-09-2024",
+            "country": "Indonesia",
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=_DmFWaPb1xg"
+        },
+        {
+            "user": "Toxical",
+            "date": "08-03-2025",
+            "country": "Philippines",
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=dtU9NTwoRqY"
+        },
+        {
+            "user": "Zathral",
+            "date": "28-03-2025",
+            "country": "Singapore",
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=lrjXbxKHjoc"
+        },
+        {
+            "user": "Lomeno",
+            "date": "05-05-2025",
+            "country": "Philippines",
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=GoZG3dCDj7E"
+        },
+        {
+            "user": "oshiimaaa",
+            "date": "01-06-2025",
+            "country": "Philippines",
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=-WPwE4hpR_A"
+        },
+        {
+            "user": "StarXV",
+            "date": "17-06-2025",
+            "country": "Philippines",
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=WpV1E0znsDk"
+        },
+        {
             "user": "imgoodatwaving",
             "date": "12-07-2025",
             "country": "Vietnam",
             "percent": 100,
             "video": "https://drive.google.com/file/d/1ywclLSqUFI0p7qJTx-Fa1YZ5IOI0FNFW/view"
+        },
+        {
+            "user": "KenZGeoDat",
+            "date": "18-07-2025",
+            "country": "Vietnam",
+            "percent": 100,
+            "video": "https://youtu.be/w2hj8V6lVXY?si=koeygHdHUYzrBKUS"
         }
     ]
 }
