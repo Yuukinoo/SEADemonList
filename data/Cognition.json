@@ -7,39 +7,37 @@
     "verification": "https://youtu.be/VO0Tbz3hl60?si=I5qmZMXfQSNx2x9O",
     "percentToQualify": 69,
     "records":[
-        {
-    
-         "user": "Abbadox",
-         "country":"Philippines",
-         "percent": 100,
-         "video": "https://www.youtube.com/watch?v=_fgSV6l2ElE"
+        { 
+            "user": "Abbadox",
+            "country":"Philippines",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=_fgSV6l2ElE"
         },
         {
             "user": "Asteria",
             "country": "Philippines",
             "percent": 100,
-            "video": "https://www.youtube.com/watch?v=l7k0ed6kw1Y"
+            "link": "https://www.youtube.com/watch?v=l7k0ed6kw1Y"
 
         },
         {
             "user": "Aplhanumeric",
             "country": "Singapore",
             "percent": 100,
-            "video": "https://www.youtube.com/watch?v=dmaROzZ3a9s"
+            "link": "https://www.youtube.com/watch?v=dmaROzZ3a9s"
         
         },
         {
             "user": "birii",
             "country": "Vietnam",
             "percent": 100,
-            "video": "https://www.youtube.com/watch?v=Hqo6twOOjj0"
-
+            "link": "https://www.youtube.com/watch?v=Hqo6twOOjj0"
         },
         {
             "user": "MADxSG",
             "country": "Malaysia",
             "percent": 100,
-            "video": "https://www.youtube.com/watch?v=ef5GGvqEshg"
+            "link": "https://www.youtube.com/watch?v=ef5GGvqEshg"
         }
         
 

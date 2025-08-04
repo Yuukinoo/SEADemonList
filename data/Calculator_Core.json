@@ -1,0 +1,53 @@
+{
+    "id": 58355141,
+    "name": "Calculator Core",
+    "author": "Walroose",
+    "verifier": "Abaddox",
+    "country": "Philippines",
+    "verification": "https://www.youtube.com/watch?v=4OIe48pshwc&t=22s",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "MatsuoIsHere",
+            "date": "16-09-2023",
+            "country": "Philippines",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=Zy7rqqlLFNk"
+        },
+        {
+            "user": "EtVil",
+            "date": "14-04-2024",
+            "country": "Philippines",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=K51If3Nxw7s"
+        },
+        {
+            "user": "ADecentUsername",
+            "date": "23-06-2024",
+            "country": "Philippines",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=orIQZ7wnVuk"
+        },
+        {
+            "user": "mephhh",
+            "date": "04-08-2024",
+            "country": "Vietnam",
+            "percent": 100,
+            "link": "https://youtu.be/oKdRzE_BFmw"
+        },
+        {
+            "user": "Itsdz",
+            "date": "31-05-2025",
+            "country": "Vietnam",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=NONyWA_zb-Y"
+        },
+        {
+            "user": "Lomeno",
+            "date": "25-02-2025",
+            "country": "Philippines",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=iqGkyOlLZ8U"
+        }
+    ]
+}
