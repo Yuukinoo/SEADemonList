@@ -4,8 +4,15 @@
     "author": "npesta",
     "verifier": "MatsuoIsHere",
     "country": "Philippines",
-    "verification": "#",
+    "verification": "https://www.youtube.com/watch?v=A--Qmt6qogQ",
     "percentToQualify": 69,
     "records": [
+        {
+            "user": "Feylix",
+            "country": "Vietnam",
+            "percent": 100,
+            "video": "https://youtu.be/Q3AD2RnOLcM"
+        }
     ]
+    
 }

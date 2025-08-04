@@ -1,0 +1,29 @@
+{
+    "id": 63996127,
+    "name": "Cold Sweat",
+    "author": "para",
+    "verifier": "painguyn",
+    "country": "Vietnam",
+    "verification": "https://youtu.be/x_iRUaPsTko",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "DeathCraft",
+            "country": "Singapore",
+            "percent": 69,
+            "video": "https://www.youtube.com/watch?v=dzRf6iRAD0g"
+        },
+        {
+            "user": "Mellopellow",
+            "country": "Philippines",
+            "percent": 69,
+            "video": "https://www.youtube.com/watch?v=hUiIlNvCmKQ"
+        },
+        {
+            "user": "DepresseChan",
+            "country": "Malaysia",
+            "percent": 69,
+            "video": "https://www.youtube.com/watch?v=Zj9f-etieQY"
+        }
+    ]
+}
