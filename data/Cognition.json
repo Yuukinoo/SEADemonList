@@ -7,12 +7,20 @@
     "verification": "https://youtu.be/VO0Tbz3hl60?si=I5qmZMXfQSNx2x9O",
     "percentToQualify": 69,
     "records":[
+<<<<<<< HEAD
         {
     
          "user": "Abbadox",
          "country":"Philippines",
          "percent": 100,
          "link": "https://www.youtube.com/watch?v=_fgSV6l2ElE"
+=======
+        { 
+            "user": "Abaddox",
+            "country":"Philippines",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=_fgSV6l2ElE"
+>>>>>>> bd9a879708268d57be19bc6d4851e3993b2df3db
         },
         {
             "user": "Asteria",
@@ -33,7 +41,10 @@
             "country": "Vietnam",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=Hqo6twOOjj0"
+<<<<<<< HEAD
 
+=======
+>>>>>>> bd9a879708268d57be19bc6d4851e3993b2df3db
         },
         {
             "user": "MADxSG",
