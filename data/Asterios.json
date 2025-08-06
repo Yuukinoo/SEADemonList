@@ -1,0 +1,25 @@
+{
+    "id": 60870688,
+    "name": "Asterios",
+    "author": "Exen",
+    "verifier": "TinyKawaii",
+    "country": "Vietnam",
+    "verification": "https://youtu.be/pdmJKFNdbWk",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "birii",
+            "date": "16-10-2024",
+            "link": "https://youtu.be/mqFVEwH0q7c",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "TinyKawaii",
+            "date": "29-06-2025",
+            "link": "https://www.youtube.com/watch?v=6tFH_eNihkw",
+            "country": "Vietnam",
+            "percent": 100
+        }
+    ]
+}

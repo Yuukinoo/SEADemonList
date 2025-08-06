@@ -2,11 +2,18 @@
     "id": 74391640,
     "name": "Keres",
     "author": "ItsHybrid",
-    "verifier": "MatsuoIsHere",
-    "country": "Philippines",
-    "verification": "https://www.youtube.com/watch?v=dyEPqGWgiRM",
+    "verifier": "kay.",
+    "country": "Laos",
+    "verification": "https://www.youtube.com/watch?v=XZS3AhSyX4g",
     "percentToQualify": 69,
     "records": [
+        {
+            "user": "MatsuoIsHere",
+            "date": "10-10-2024",
+            "link": "https://www.youtube.com/watch?v=dyEPqGWgiRM",
+            "country": "Philippines",
+            "percent": 100
+        },
         {
             "user": "Lomeno",
             "date": "11-02-2025",

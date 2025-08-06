@@ -7,6 +7,13 @@
     "verification": "https://youtu.be/VO0Tbz3hl60?si=I5qmZMXfQSNx2x9O",
     "percentToQualify": 69,
     "records":[
+        {
+            "user": "kay.",
+            "date": "24-05-2020",
+            "country": "Laos",
+            "link": "https://www.youtube.com/watch?v=1amYKV_80Os",
+            "percent": 100
+        },
         { 
             "user": "Abaddox",
             "country":"Philippines",
