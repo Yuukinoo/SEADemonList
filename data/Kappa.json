@@ -1,0 +1,25 @@
+{
+    "id": 59800588,
+    "name": "Kappa",
+    "author": "Armadeus",
+    "verifier": "kay.",
+    "country": "Laos",
+    "verification": "https://www.youtube.com/watch?v=dRspkO2j2-w",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "birii",
+            "date": "16-10-2024",
+            "link": "https://youtu.be/mqFVEwH0q7c",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "TinyKawaii",
+            "date": "29-06-2025",
+            "link": "https://www.youtube.com/watch?v=6tFH_eNihkw",
+            "country": "Vietnam",
+            "percent": 100
+        }
+    ]
+}
