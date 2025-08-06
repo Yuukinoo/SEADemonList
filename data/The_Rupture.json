@@ -1,0 +1,25 @@
+{
+    "id": 57828784,
+    "name": "The Rupture",
+    "author": "Ka1ns",
+    "verifier": "kay.",
+    "country": "Laos",
+    "verification": "https://www.youtube.com/watch?v=iiztzz1EMUE",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "LBoke",
+            "date": "29-05-2022",
+            "link": "https://youtu.be/Mmg5Lp13fUw",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "MatsuoIsHere",
+            "date": "05-09-2023",
+            "link": "https://www.youtube.com/watch?v=3VbpH3UDdn8",
+            "country": "Philippines",
+            "percent": 100
+        }
+    ]
+}
