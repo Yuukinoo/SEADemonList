@@ -1,0 +1,46 @@
+{
+    "id": 60564010,
+    "name": "Aronia",
+    "author": "Exen",
+    "verifier": "Mysel",
+    "country": "Philippines",
+    "verification": "https://www.youtube.com/watch?v=IxaQLnUvubY",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "kay.",
+            "date": "22-09-2021",
+            "link": "https://www.youtube.com/watch?v=0IO5N-EIeDM",
+            "country": "Laos",
+            "percent": 100
+        },
+        {
+            "user": "Adrian",
+            "date": "30-11-2021",
+            "link": "https://www.youtube.com/watch?v=7baWM0Xodns",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "StarXV",
+            "date": "01-12-2022",
+            "link": "https://www.youtube.com/watch?v=I0aVzKMrWEo",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "TinyKawaii",
+            "date": "18-01-2025",
+            "link": "https://www.youtube.com/watch?v=Yp_78Qe0cE4",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "xPrime",
+            "date": "24-06-2025",
+            "link": "https://youtu.be/v5-hqipZWyI",
+            "country": "Vietnam",
+            "percent": 100
+        }
+    ]
+}
