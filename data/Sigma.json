@@ -1,0 +1,60 @@
+{
+    "id": 51657783,
+    "name": "Sigma",
+    "author": "MindCap",
+    "verifier": "GD Darky",
+    "country": "Indonesia",
+    "verification": "https://www.youtube.com/watch?v=pTxU1idUaLM",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "Abaddox",
+            "date": "21-01-2022",
+            "link": "https://www.youtube.com/watch?v=0IO5N-EIeDM",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "LBoke",
+            "date": "11-09-2023",
+            "link": "https://www.youtube.com/watch?v=7baWM0Xodns",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "mephhh",
+            "date": "04-08-2024",
+            "link": "https://youtu.be/SjrmcXBVy6U",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "Anirium",
+            "date": "12-08-2024",
+            "link": "https://youtu.be/mgaKAkV9p50",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "Feylix",
+            "date": "17-10-2024",
+            "link": "https://youtu.be/duDNUh8pZkc",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "LongHunter",
+            "date": "30-11-2024",
+            "link": "https://youtu.be/Ie_BTuoTQG0",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "Ninjacat9000",
+            "date": "05-08-2025",
+            "link": "https://www.youtube.com/watch?v=IqRiqxyiOsM",
+            "country": "Singapore",
+            "percent": 100
+        }
+    ]
+}
