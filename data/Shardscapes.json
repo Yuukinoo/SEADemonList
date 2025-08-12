@@ -2,24 +2,42 @@
     "id": 79997992,
     "name": "Shardscapes",
     "author": "ItzKiba",
-    "verifier": "Anirium",
-    "country": "Vietnam",
-    "verfication": "https://www.youtube.com/watch?v=WhZc1Mj-8GA",
+    "verifier": "ADecentUsername",
+    "country": "Philippines",
+    "percentToQualify": 69,
+    "verification": "https://www.youtube.com/watch?v=KrUlGUH6dA0",
     "records": [
         {
+            "user": "Anirium",
+            "date": "22-09-2024",
+            "link": "https://www.youtube.com/watch?v=WhZc1Mj-8GA",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "Lomeno",
+            "date": "24-01-2025",
+            "link": "https://www.youtube.com/watch?v=Wk7vOKlfIsg",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
             "user": "nhen",
+            "date": "31-01-2025",
             "link": "https://www.youtube.com/watch?v=jrDl3l2OGSM",
             "country": "Vietnam",
             "percent": 100
         },
         {
             "user": "SparkyConjure",
+            "date": "24-03-2025",
             "link": "https://www.youtube.com/watch?v=KiMXsmUiFSE",
             "country": "Vietnam",
             "percent": 100
         },
         {
             "user": "calculiss",
+            "date": "08-05-2025",
             "link": "https://www.youtube.com/watch?v=RtZkW1Vu3kY",
             "country": "Malaysia",
             "percent": 100

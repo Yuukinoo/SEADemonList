@@ -1,0 +1,32 @@
+{
+    "id": 82172844,
+    "name": "Cobwebs",
+    "author": "NineDice",
+    "verifier": "Gabozo123",
+    "country": "Singapore",
+    "verification": "https://www.youtube.com/watch?v=ncUuI7mqvl8",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "naraoka",
+            "date": "16-02-2025",
+            "link": "https://www.youtube.com/watch?v=dYpBr7AkkjE",
+            "country": "Indonesia",
+            "percent": 100
+        },
+        {
+            "user": "Flugel",
+            "date": "18-05-2025",
+            "link": "https://www.youtube.com/watch?v=vIw0YG_PnUw",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "Limitation",
+            "date": "21-06-2025",
+            "link": "https://youtu.be/6WGmdsRRIIQ",
+            "country": "Philippines",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": 68668045,
+    "name": "Congregation",
+    "author": "Presta",
+    "verifier": "mephhh",
+    "country": "Vietnam",
+    "verification": "https://www.youtube.com/watch?v=F_nuHbCOBY4",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "MatsuoIsHere",
+            "date": "23-05-2022",
+            "link": "https://www.youtube.com/watch?v=yA6XHMbuuBU",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "Zunexi",
+            "date": "24-04-2025",
+            "link": "https://www.youtube.com/watch?v=YcaGdPOOgyw",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "ChamTheSlime",
+            "date": "28-04-2025",
+            "link": "https://www.youtube.com/watch?v=eO07SWHz6tk",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "vynshi",
+            "date": "19-05-2025",
+            "link": "https://youtu.be/QWwQBFEMlrk",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "NguyenNhatSon",
+            "date": "22-07-2025",
+            "link": "https://youtu.be/8AyGKDljnY0",
+            "country": "Vietnam",
+            "percent": 100
+        }
+    ]
+}

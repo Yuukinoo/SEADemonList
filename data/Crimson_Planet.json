@@ -1,0 +1,46 @@
+{
+    "id": 45866767,
+    "name": "Crimson Planet",
+    "author": "TrueOmega",
+    "verifier": "GD Darky",
+    "country": "Indonesia",
+    "verification": "https://www.youtube.com/watch?v=MNV1Wfm195I",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "kay.",
+            "date": "25-12-2021",
+            "link": "https://www.youtube.com/watch?v=ariH5kn76cM",
+            "country": "Laos",
+            "percent": 100
+        },
+        {
+            "user": "MatsuoIsHere",
+            "date": "25-11-2023",
+            "link": "https://www.youtube.com/watch?v=6mpxFR14VL8",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "CowSlice",
+            "date": "30-11-2024",
+            "link": "https://www.youtube.com/watch?v=uLggfptPLD4",
+            "country": "Indonesia",
+            "percent": 100
+        },
+        {
+            "user": "oshiimaaa",
+            "date": "31-12-2024",
+            "link": "https://www.youtube.com/watch?v=bFOCjOJ416s",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "Lomeno",
+            "date": "03-01-2025",
+            "link": "https://www.youtube.com/watch?v=uogNW9tLhxU",
+            "country": "Philippines",
+            "percent": 100
+        }
+    ]
+}

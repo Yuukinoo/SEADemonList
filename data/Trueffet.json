@@ -2,10 +2,17 @@
     "id": 71434979,
     "name": "Trueffet",
     "author": "SyQual",
-    "verifier": "MatsuoIsHere",
-    "country": "Philippines",
-    "verification": "https://youtu.be/lWBvzwzKif0",
+    "verifier": "kay.",
+    "country": "Laos",
+    "verification": "https://www.youtube.com/watch?v=lWBvzwzKif0",
     "percentToQualify": 69,
     "records": [
+        {
+            "user": "MatsuoIsHere",
+            "date": "27-02-2025",
+            "country": "Philippines",
+            "link": "https://www.youtube.com/watch?v=lWBvzwzKif0",
+            "percent": 100
+        }
     ]
 }

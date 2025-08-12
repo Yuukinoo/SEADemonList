@@ -1,0 +1,60 @@
+{
+    "id": 55624478,
+    "name": "Ragnarok",
+    "author": "Knobbelboy",
+    "verifier": "Abaddox",
+    "country": "Philippines",
+    "verification": "https://www.youtube.com/watch?v=U3n27NHgD34",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "Adrian",
+            "date": "15-05-2022",
+            "link": "https://www.youtube.com/watch?v=P7SVV-eGEYA",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "StarXV",
+            "date": "31-07-2022",
+            "link": "https://www.youtube.com/watch?v=2kKw4jhVBUM",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "TempuraGD",
+            "date": "12-05-2023",
+            "link": "https://www.youtube.com/watch?v=3pJ1u-ghPkc",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "Zunexi",
+            "date": "19-07-2024",
+            "link": "https://youtu.be/_l3LWgG8CvY",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "birii",
+            "date": "06-11-2024",
+            "link": "https://youtu.be/haBVXC_o1i8",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "mephhh",
+            "date": "30-05-2025",
+            "link": "https://www.youtube.com/watch?v=D54vp6hh_hw",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "MatsuoIsHere",
+            "date": "12-06-2025",
+            "link": "https://www.youtube.com/watch?v=TZbwZX71wes",
+            "country": "Philippines",
+            "percent": 100
+        }
+    ]
+}

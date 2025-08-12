@@ -9,6 +9,13 @@
     "percentToQualify": 69,
     "records": [
         {
+            "user": "kay.",
+            "date": "22-11-2021",
+            "country": "Laos",
+            "link": "https://www.youtube.com/watch?v=De-uoEpplrM",
+            "percent": 100
+        },
+        {
             "user": "Abaddox",
             "date": "13-02-2022",
             "country": "Philippines",
@@ -34,7 +41,7 @@
             "date": "28-04-2024",
             "country": "Vietnam",
             "percent": 100,
-            "link": "https://www.youtube.com/watch?v=2b0c1g3k4aY"
+            "link": "https://www.youtube.com/watch?v=6n6KeqCV5Us&t=3s"
         },
         {
             "user": "birii",
