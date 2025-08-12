@@ -1,0 +1,60 @@
+{
+    "id": 55547703,
+    "name": "Sunset Sandstorm",
+    "author": "crohn44",
+    "verifier": "MADxSG",
+    "country": "Malaysia",
+    "verification": "https://youtu.be/Nex0iOqPjgo?si=BCQybvULAc3Vzcqf",
+    "percentToQualify": 100,
+    "records": [
+
+        {
+            "user": "FunniestPro",
+            "link": "https://youtu.be/_zCQWKmFi38?si=W-0TPM2hhE9jk8cP",
+            "country": "Thailand",
+            "percent": 100        
+        },
+        {
+            "user": "ADecentUsername",
+            "link": "https://youtu.be/_zCQWKmFi38?si=wJldAA4Xfmcc5AiT",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "mephhh",
+            "link": "https://youtu.be/lqisdiOKKTE?si=7bdofCsZ5aadNXN1",
+            "country": "Vietnam",
+            "percent": 100        
+        },
+        {
+            "user": "RealEnderDust",
+            "link": "https://youtu.be/8V3dFdBQL6w?si=WMOXkxtwGJqr7NGr",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "EtVil",
+            "link": "https://youtu.be/8TNQeLcrYk0?si=uIBwvZ9tWr7atdFr",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "Lomeno",
+            "link": "https://youtu.be/a_qZLpKuAC0?si=Q9Ro3NX0oXXofc7U",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "mist",
+            "link": "https://youtu.be/z9Mm9LhD3-4?si=8RXC9MFgBKaySbz6",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "SoniL",
+            "link": "https://youtu.be/5OjAzgDg-3U?si=ViekiKfvSOC2YHkd",
+            "country": "Thailand",
+            "percent": 100
+        }
+    ]
+}
