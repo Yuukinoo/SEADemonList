@@ -2,20 +2,157 @@
     "id": 28220417,
     "name": "Yatagarasu",
     "author": "TrusTa",
-    "verifier": "GDDarky",
+    "verifier": "GD Darky",
     "country": "Indonesia",
     "verification": "https://youtu.be/_waBdzoGm4k?si=8UJIWh44OEankSsE",
     "percentToQualify": 100,
     "records": [
-        
         {
             "user": "MADxSG",
-            "link": "https://youtu.be/TL1kcVRrwgM?si=jet-dEUT-VmmBOtb",
+            "date": "21-09-2021",
+            "link": "https://youtu.be/TL1kcVRrwgM",
             "country": "Malaysia",
             "percent": 100
         },
         {
-            "user": ""
+            "user": "MatsuoIsHere",
+            "date": "17-02-2022",
+            "link": "https://www.youtube.com/watch?v=rBFfLNXIhoM",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "Abaddox",
+            "date": "20-02-2022",
+            "link": "https://www.youtube.com/watch?v=uHvUoRsEgbc",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "swizzzleJ",
+            "date": "31-05-2022",
+            "link": "https://www.youtube.com/watch?v=IUOWQU-JzHg",
+            "country": "Singapore",
+            "percent": 100
+        },
+        {
+            "user": "lootbox",
+            "date": "06-01-2023",
+            "link": "https://www.youtube.com/watch?v=6jtBRk-Oi8w",
+            "country": "Thailand",
+            "percent": 100
+        },
+        {
+            "user": "Ninjacat9000",
+            "date": "09-04-2023",
+            "link": "https://www.youtube.com/watch?v=oiM2FbdYB10",
+            "country": "Singapore",
+            "percent": 100
+        },
+        {
+            "user": "Anirium",
+            "date": "20-04-2023",
+            "link": "https://www.youtube.com/watch?v=vNpVdJObphw",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "StarXV",
+            "date": "18-07-2023",
+            "link": "https://www.youtube.com/watch?v=HdVGOFHgw-I",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "Adrian",
+            "date": "16-09-2023",
+            "link": "https://www.youtube.com/watch?v=v79rq3zDBEc",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "Setsoku",
+            "date": "10-10-2023",
+            "link": "https://www.youtube.com/watch?v=9nTnSy2CeWI",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "Parkboy",
+            "date": "18-11-2023",
+            "link": "https://www.youtube.com/watch?v=gqwX6Oq94_M",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "LongHunter",
+            "date": "07-12-2023",
+            "link": "https://youtu.be/SMd927k-2Fw",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "spoonGD",
+            "date": "25-12-2023",
+            "link": "https://youtu.be/Zoosh8HgHnY",
+            "country": "Singapore",
+            "percent": 100
+        },
+        {
+            "user": "alk4n3",
+            "date": "24-03-2024",
+            "link": "https://youtu.be/6hugJGLLiqM",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "EtVil",
+            "date": "21-04-2024",
+            "link": "https://www.youtube.com/watch?v=u17XxSO9jm4",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "Lomeno",
+            "date": "28-06-2024",
+            "link": "https://www.youtube.com/watch?v=_e5D5a7R22c",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "mephhh",
+            "date": "04-08-2024",
+            "link": "https://www.youtube.com/watch?v=xEepBDgjMRg",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "MoyaiCubeFreeman",
+            "date": "03-11-2024",
+            "link": "https://youtu.be/J_U8GBYZLpo",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "HGL",
+            "date": "27-05-2025",
+            "link": "https://youtu.be/MC4sz0HsJwk",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "Zophirux",
+            "date": "18-07-2025",
+            "link": "https://www.youtube.com/watch?v=6yK68DBHY8I",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "VietAnh2010",
+            "date": "05-08-2025",
+            "link": "https://www.youtube.com/watch?v=JaEjDoHVSUE",
+            "country": "Vietnam",
+            "percent": 100
         }
     ]
 }
