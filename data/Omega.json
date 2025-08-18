@@ -7,5 +7,26 @@
     "verification": "https://youtu.be/iZuJ5zWqYas?si=opql4MBcArXy89ty",
     "percentToQualify": 69,
     "records": [
+        {
+            "user": "Anirium",
+            "date": "03-12-2023",
+            "link": "https://youtu.be/1nFppsPa1Z4",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "Zunexi",
+            "date": "28-03-2024",
+            "link": "https://youtu.be/nUcLKNP5ADM",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "Feylix",
+            "date": "07-07-2025",
+            "link": "https://youtu.be/Db89uqTYt8E",
+            "country": "Vietnam",
+            "percent": 100
+        }
     ]
 }
