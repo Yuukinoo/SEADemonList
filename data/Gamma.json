@@ -7,5 +7,40 @@
     "verification": "https://youtu.be/l1U9_350zUw?si=vvLYDsM_XGGk-3OI",
     "percentToQualify": 69,
     "records": [
+        {
+            "user": "StarXV",
+            "date": "09-12-2023",
+            "link": "https://www.youtube.com/watch?v=yj1liqJ8EXE",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "Anirium",
+            "date": "20-08-2024",
+            "link": "https://www.youtube.com/watch?v=tEz2kJkMwXs",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "oshiimaaa",
+            "date": "16-04-2025",
+            "link": "https://www.youtube.com/watch?v=cVvYHNqztq0",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "user": "Feylix",
+            "date": "05-06-2025",
+            "link": "https://youtu.be/q9eW4vRQ6PU",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "Plasmatictus",
+            "date": "21-07-2025",
+            "link": "https://www.youtube.com/watch?v=H_eN9D7jJL4",
+            "country": "Philippines",
+            "percent": 100
+        }
     ]
 }
