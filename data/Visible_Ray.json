@@ -6,5 +6,54 @@
     "country": "Laos",
     "verification": "https://www.youtube.com/watch?v=vh_no9ZkSeI",
     "percentToQualify": 69,
-    "records": []
+    "records": [
+        {
+            "level_id": 48267315,
+            "user": "Adrian",
+            "date": "07-06-2021",
+            "link": "https://www.youtube.com/watch?v=Dx5flz9wV1o",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 48267315,
+            "user": "Abaddox",
+            "date": "31-12-2021",
+            "link": "https://www.youtube.com/watch?v=LiaLSd9dKYo",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 48267315,
+            "user": "mephhh",
+            "date": "04-08-2024",
+            "link": "https://youtu.be/dUwTN_OJTeE",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 48267315,
+            "user": "swizzzleJ",
+            "date": "12-10-2024",
+            "link": "https://www.youtube.com/watch?v=kR1CIf0VEvk",
+            "country": "Singapore",
+            "percent": 100
+        },
+        {
+            "level_id": 48267315,
+            "user": "Ninjacat9000",
+            "date": "19-05-2025",
+            "link": "https://www.youtube.com/watch?v=DhE1Yhk-Mmw",
+            "country": "Singapore",
+            "percent": 100
+        },
+        {
+            "level_id": 48267315,
+            "user": "StarXV",
+            "date": "19-05-2025",
+            "link": "https://www.youtube.com/watch?v=G63glEMvxos",
+            "country": "Philippines",
+            "percent": 100
+        }
+    ]
 }
