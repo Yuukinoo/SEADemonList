@@ -2,9 +2,98 @@
     "id": 46763581,
     "name": "kowareta",
     "author": "Gablor",
-    "verifier": "Abaddox",
-    "country": "Philippines",
+    "verifier": "kay.",
+    "country": "Laos",
     "verification": "https://www.youtube.com/watch?v=JCFICo3cslU",
     "percentToQualify": 69,
-    "records": []
+    "records": [
+        {
+            "level_id": 46763581,
+            "user": "Abaddox",
+            "date": "14-08-2020",
+            "link": "https://www.youtube.com/watch?v=JCFICo3cslU",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 46763581,
+            "user": "Atherox",
+            "date": "18-12-2021",
+            "link": "https://www.youtube.com/watch?v=udRhmnA0olU",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 46763581,
+            "user": "Air",
+            "date": "24-01-2022",
+            "link": "https://www.youtube.com/watch?v=EZJ-298rx6M",
+            "country": "Thailand",
+            "percent": 100
+        },
+        {
+            "level_id": 46763581,
+            "user": "Asteria",
+            "date": "02-06-2022",
+            "link": "https://www.youtube.com/watch?v=8pah8hgOajg",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 46763581,
+            "user": "MADxSG",
+            "date": "12-06-2022",
+            "link": "https://www.youtube.com/watch?v=ibUlyAT4FIs",
+            "country": "Malaysia",
+            "percent": 100
+        },
+        {
+            "level_id": 46763581,
+            "user": "MatsuoIsHere",
+            "date": "01-07-2022",
+            "link": "https://www.youtube.com/watch?v=dWNRRZoAuck",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 46763581,
+            "user": "Adrian",
+            "date": "05-02-2023",
+            "link": "https://www.youtube.com/watch?v=SA6uA7YDD4w",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 46763581,
+            "user": "oshiimaaa",
+            "date": "19-05-2023",
+            "link": "https://www.youtube.com/watch?v=XqDpY2lBl5A",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 46763581,
+            "user": "alk4n3",
+            "date": "20-12-2024",
+            "link": "https://youtu.be/0uVvitrSXxc",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 46763581,
+            "user": "CaubeRizzler",
+            "date": "05-06-2025",
+            "link": "https://www.youtube.com/watch?v=2BLCwKUs1T4",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 46763581,
+            "user": "Lomeno",
+            "date": "28-06-2025",
+            "link": "https://www.youtube.com/watch?v=p2BZEto65lY",
+            "country": "Philippines",
+            "percent": 100
+        }
+    ]
 }
