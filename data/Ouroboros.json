@@ -2,10 +2,42 @@
     "id": 56703691,
     "name": "Ouroboros",
     "author": "ViPriN",
-    "verifier": "adrianthedev",
+    "verifier": "Adrian",
     "country": "Philippines",
     "verification": "https://www.youtube.com/watch?v=hOAfgMQjrfg",
     "percentToQualify": 69,
-    "records":[
+    "records": [
+        {
+            "level_id": 56703691,
+            "user": "Abaddox",
+            "date": "14-04-2022",
+            "link": "https://www.youtube.com/watch?v=vBwM6iySb0o",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 56703691,
+            "user": "StarXV",
+            "date": "05-05-2022",
+            "link": "https://www.youtube.com/watch?v=n-D-NvrpKG0",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 56703691,
+            "user": "Anirium",
+            "date": "04-03-2023",
+            "link": "https://www.youtube.com/watch?v=CHzQs2HojL0",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 56703691,
+            "user": "mephhh",
+            "date": "03-02-2024",
+            "link": "https://www.youtube.com/watch?v=aYYuyYtWf68",
+            "country": "Vietnam",
+            "percent": 100
+        }
     ]
 }

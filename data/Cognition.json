@@ -6,41 +6,44 @@
     "country": "Laos",
     "verification": "https://www.youtube.com/watch?v=1amYKV_80Os",
     "percentToQualify": 69,
-    "records":[
+    "records": [
         {
-    
-         "user": "Abbadox",
-         "country":"Philippines",
-         "percent": 100,
-         "link": "https://www.youtube.com/watch?v=_fgSV6l2ElE"
-        },
-        { 
-            "user": "Abaddox",
-            "country":"Philippines",
+            "level_id": 57600307,
+            "user": "Abbadox",
+            "country": "Philippines",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=_fgSV6l2ElE"
         },
         {
+            "level_id": 57600307,
+            "user": "Abaddox",
+            "country": "Philippines",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=_fgSV6l2ElE"
+        },
+        {
+            "level_id": 57600307,
             "user": "Asteria",
             "country": "Philippines",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=l7k0ed6kw1Y"
-
         },
         {
+            "level_id": 57600307,
             "user": "Alphanumeric",
             "country": "Singapore",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=dmaROzZ3a9s"
-        
         },
         {
+            "level_id": 57600307,
             "user": "birii",
             "country": "Vietnam",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=Hqo6twOOjj0"
         },
         {
+            "level_id": 57600307,
             "user": "MADxSG",
             "country": "Malaysia",
             "percent": 100,

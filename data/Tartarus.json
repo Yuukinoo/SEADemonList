@@ -8,6 +8,7 @@
     "percentToQualify": 69,
     "records": [
         {
+            "level_id": 59075347,
             "user": "Adrian",
             "date": "23-09-2022",
             "country": "Philippines",
@@ -15,18 +16,21 @@
             "percent": 100
         },
         {
+            "level_id": 59075347,
             "user": "MatsuoIsHere",
             "link": "https://www.youtube.com/watch?v=cNbn9KWTkxo",
             "country": "Philippines",
             "percent": 100
         },
         {
+            "level_id": 59075347,
             "user": "birii",
             "link": "https://youtu.be/PA9AwcAIgBY",
             "country": "Vietnam",
             "percent": 100
         },
         {
+            "level_id": 59075347,
             "user": "oshiimaaa",
             "link": "https://youtu.be/hrZXMObODAo?si=hJhIBmDqe5sf7CU9",
             "country": "Philippines",
