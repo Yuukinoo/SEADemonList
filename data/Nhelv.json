@@ -7,5 +7,19 @@
     "verification": "https://www.youtube.com/watch?v=lXts2sFzV9k",
     "percentToQualify": 69,
     "records":[
+        {
+            "user": "alk4n3",
+            "date": "30-04-2024",
+            "link": "https://www.youtube.com/watch?v=M-CE93OIlgs",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "user": "StarXV",
+            "date": "12-05-2025",
+            "link": "https://www.youtube.com/watch?v=U9CF8-MehMQ",
+            "country": "Philippines",
+            "percent": 100
+        }
     ]
 }
