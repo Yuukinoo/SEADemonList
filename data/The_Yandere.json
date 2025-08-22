@@ -2,9 +2,66 @@
     "id": 54615662,
     "name": "The Yandere",
     "author": "Dorami",
-    "verifier": "LongHunter",
-    "country": "Vietnam",
-    "verification": "https://youtu.be/34QZpsuWZH8",
+    "verifier": "TempuraGD",
+    "country": "Philippines",
+    "verification": "https://www.youtube.com/watch?v=0KHw9Gxm4xM",
     "percentToQualify": 69,
-    "records": []
+    "records": [
+        {
+            "level_id": 54615662,
+            "user": "Alphanumeric",
+            "date": "13-10-2023",
+            "link": "https://www.youtube.com/watch?v=8srRQxXyMaM",
+            "country": "Singapore",
+            "percent": 100
+        },
+        {
+            "level_id": 54615662,
+            "user": "LongHunter",
+            "date": "18-06-2024",
+            "link": "https://www.youtube.com/watch?v=34QZpsuWZH8",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 54615662,
+            "user": "LBoke",
+            "date": "18-08-2024",
+            "link": "https://youtu.be/QuRGWDdDGfY",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 54615662,
+            "user": "TinyKawaii",
+            "date": "10-11-2024",
+            "link": "https://www.youtube.com/watch?v=rY1_fyTLvcc",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 54615662,
+            "user": "mephhh",
+            "date": "13-11-2024",
+            "link": "https://youtu.be/-Eqkq-JtMJs",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 54615662,
+            "user": "Ninjacat9000",
+            "date": "14-04-2025",
+            "link": "https://www.youtube.com/watch?v=BpwCmE7P8WY",
+            "country": "Singapore",
+            "percent": 100
+        },
+        {
+            "level_id": 54615662,
+            "user": "StarXV",
+            "date": "23-04-2025",
+            "link": "https://www.youtube.com/watch?v=B2xj0cp2ASE",
+            "country": "Philippines",
+            "percent": 100
+        }
+    ]
 }
