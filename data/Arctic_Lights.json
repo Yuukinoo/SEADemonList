@@ -17,10 +17,26 @@
         },
         {
             "level_id": 52919433,
+            "user": "GD Darky",
+            "date": "08-10-2021",
+            "link": "https://youtu.be/hqvIZioHsMY",
+            "country": "Indonesia",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
             "user": "Adrian",
             "date": "31-12-2021",
             "link": "https://www.youtube.com/watch?v=mu9FVQgdUFA",
             "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "Gabozo123",
+            "date": "24-03-2022",
+            "link": "https://youtu.be/fMjgGvjgTds",
+            "country": "Singapore",
             "percent": 100
         },
         {
@@ -41,10 +57,50 @@
         },
         {
             "level_id": 52919433,
+            "user": "drvcoo",
+            "date": "10-09-2023",
+            "link": "https://www.youtube.com/watch?v=By67IwYNFRA",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "zKQGamer",
+            "date": "10-02-2024",
+            "link": "https://youtu.be/r4NQlBPWDsM",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "Mduong16",
+            "date": "25-07-2024",
+            "link": "https://www.youtube.com/watch?v=ezhfxhDiR7I",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "NguyenNhatSon",
+            "date": "26-11-2024",
+            "link": "https://youtu.be/O23wtNb3eGk",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
             "user": "Limitation",
             "date": "27-12-2024",
             "link": "https://www.youtube.com/watch?v=fReoRhSp-yo",
             "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "DoNotLuv",
+            "date": "21-02-2025",
+            "link": "https://youtu.be/500FZn8ymNk",
+            "country": "Vietnam",
             "percent": 100
         },
         {
@@ -73,7 +129,59 @@
         },
         {
             "level_id": 52919433,
-            "user": ""
+            "user": "Payne",
+            "date": "21-04-2025",
+            "link": "https://youtu.be/hjzcbP2f0Ao",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "realbata1",
+            "date": "18-05-2025",
+            "link": "https://youtu.be/ROLRkkmEQio",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "vynshi",
+            "date": "28-05-2025",
+            "link": "https://youtu.be/j_g0RXztJmg",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "HGL",
+            "date": "02-06-2025",
+            "link": "https://youtu.be/ASnAY1KiX9w",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "imgoodatwaving",
+            "date": "08-06-2025",
+            "link": "https://drive.google.com/file/d/1HINZ2Z_X8Js9dOuCaxxDwCNeha-ryi0W/view?usp=sharing",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "ChamTheSlime",
+            "date": "13-06-2025",
+            "link": "https://youtu.be/4EIZAXu5hos",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "BreadTHM",
+            "date": "01-08-2025",
+            "link": "https://youtu.be/OlLSqhD__70",
+            "country": "Vietnam",
+            "percent": 100
         }
     ]
 }
