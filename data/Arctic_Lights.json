@@ -2,9 +2,78 @@
     "id": 52919433,
     "name": "Arctic Lights",
     "author": "Metalface221",
-    "verifier": "MatsuoIsHere",
-    "country": "Philippines",
-    "verification": "https://www.youtube.com/watch?v=e3FjwmmOAwg",
+    "verifier": "kay.",
+    "country": "Laos",
+    "verification": "https://www.youtube.com/watch?v=j1CxjlEltgw",
     "percentToQualify": 69,
-    "records": []
+    "records": [
+        {
+            "level_id": 52919433,
+            "user": "MatsuoIsHere",
+            "date": "10-07-2021",
+            "link": "https://www.youtube.com/watch?v=e3FjwmmOAwg",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "Adrian",
+            "date": "31-12-2021",
+            "link": "https://www.youtube.com/watch?v=mu9FVQgdUFA",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "Abaddox",
+            "date": "10-04-2022",
+            "link": "https://www.youtube.com/watch?v=5oFOZ7-DUJY",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "oshiimaaa",
+            "date": "28-10-2022",
+            "link": "https://www.youtube.com/watch?v=ex1zAL47iIM",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "Limitation",
+            "date": "27-12-2024",
+            "link": "https://www.youtube.com/watch?v=fReoRhSp-yo",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "Lomeno",
+            "date": "22-03-2025",
+            "link": "https://www.youtube.com/watch?v=S2aTkxv4OfQ",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "Toxical",
+            "date": "04-03-2025",
+            "link": "https://www.youtube.com/watch?v=RHUAYSBllXM",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": "Swansong",
+            "date": "10-04-2025",
+            "link": "https://youtu.be/nGGBJE1x8q4",
+            "country": "Thailand",
+            "percent": 100
+        },
+        {
+            "level_id": 52919433,
+            "user": ""
+        }
+    ]
 }
