@@ -4,7 +4,24 @@
     "author": "EndLevel",
     "verifier": "oshiimaaa",
     "country": "Philippines",
-    "verification": "https://youtu.be/mH-32CDULr4?si=SrVfVISZtJUuWe60",
+    "verification": "https://youtu.be/mH-32CDULr4",
     "percentToQualify": 69,
-    "records": []
+    "records": [
+        {
+            "level_id": 60740290,
+            "user": "Payne",
+            "date": "10-11-2024",
+            "link": "https://youtu.be/EqVUcl0wl8U",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 60740290,
+            "user": "NguyenNhatSon",
+            "date": "12-08-2025",
+            "link": "https://youtu.be/5_MhWCOeBc8",
+            "country": "Vietnam",
+            "percent": 100
+        }
+    ]
 }
