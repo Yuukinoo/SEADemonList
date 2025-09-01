@@ -2,9 +2,22 @@
     "id": 59539361,
     "name": "Storming Summit",
     "author": "IINimbusII",
-    "verifier": "adrianthedev",
+    "verifier": "Adrian",
     "country": "Philippines",
     "verification": "https://www.youtube.com/watch?v=W91J3lTamPs",
     "percentToQualify": 69,
-    "records": []
+    "records": [
+        {
+            "level_id": 59539361,
+            "user": "StarXV",
+            "date": "26-12-2024",
+            "link": "https://www.youtube.com/watch?v=KXV5c0rwesk",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 59539361,
+            "user": ""
+        }
+    ]
 }
