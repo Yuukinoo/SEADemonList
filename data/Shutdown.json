@@ -6,5 +6,22 @@
     "country": "Vietnam",
     "verification": "https://www.youtube.com/watch?v=BFmp7sR0kHU",
     "percentToQualify": 69,
-    "records": []
+    "records": [
+        {
+            "level_id": 78164953,
+            "user": "painguyn",
+            "date": "08-08-2025",
+            "link": "https://youtu.be/cNClzdEs2fY",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 78164953,
+            "user": "Untivigd",
+            "date": "23-08-2025",
+            "link": "https://www.youtube.com/watch?v=6NWn3XTPK9w",
+            "country": "Vietnam",
+            "percent": 100
+        }
+    ]
 }
