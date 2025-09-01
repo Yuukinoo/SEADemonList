@@ -6,5 +6,70 @@
     "country": "Philippines",
     "verification": "https://www.youtube.com/watch?v=sWSgSoQtVTM",
     "percentToQualify": 69,
-    "records": []
+    "records": [
+        {
+            "level_id": 38655495,
+            "user": "Abaddox",
+            "date": "22-12-2021",
+            "link": "https://youtu.be/nDTODS9C6aU",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 38655495,
+            "user": "basbas1234",
+            "date": "13-03-2022",
+            "link": "https://youtu.be/kZK30C9xS7g",
+            "country": "Thailand",
+            "percent": 100
+        },
+        {
+            "level_id": 38655495,
+            "user": "ADecentUsername",
+            "date": "30-04-2022",
+            "link": "https://youtu.be/lgPoOJkC1Qo",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 38655495,
+            "user": "kay.",
+            "date": "02-07-2022",
+            "link": "https://youtu.be/cd6GmEYRC0w",
+            "country": "Laos",
+            "percent": 100
+        },
+        {
+            "level_id": 38655495,
+            "user": "Adrian",
+            "date": "24-09-2022",
+            "link": "https://youtu.be/xZ4QjBvlhq0",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 38655495,
+            "user": "oshiimaaa",
+            "date": "15-10-2023",
+            "link": "https://youtu.be/LHQg8bYZy68",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 38655495,
+            "user": "mephhh",
+            "date": "08-01-2024",
+            "link": "https://youtu.be/5i49lJRMCJ4",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 38655495,
+            "user": "mist",
+            "date": "13-04-2025",
+            "link": "https://youtu.be/Vz9Rqu2-kxk",
+            "country": "Vietnam",
+            "percent": 100
+        }
+    ]
 }
