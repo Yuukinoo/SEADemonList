@@ -2,9 +2,67 @@
     "id": 88421468,
     "name": "AKIRA",
     "author": "Eridani",
-    "verifier": "birii",
-    "country": "Vietnam",
-    "verification": "https://youtu.be/svp1FIoTjj0",
+    "verifier": "spoonGD",
+    "country": "Singapore",
+    "verification": "https://www.youtube.com/watch?v=md9Lf5NnIZw",
     "percentToQualify": 69,
-    "records": []
+    "records": [
+        {
+            "level_id": 88421468,
+            "user": "birii",
+            "date": "16-03-2024",
+            "link": "https://www.youtube.com/watch?v=svp1FIoTjj0",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 88421468,
+            "user": "Dafy",
+            "date": "28-04-2024",
+            "link": "https://youtu.be/NcXqwEKRJs0",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 88421468,
+            "user": "Cheyenne",
+            "date": "03-09-2024",
+            "link": "https://youtu.be/eY5iJY1ruzQ",
+            "country": "Vietnam",
+            "percent": 100
+        },
+
+        {
+            "level_id": 88421468,
+            "user": "StarXV",
+            "date": "15-10-2024",
+            "link": "https://www.youtube.com/watch?v=Utnb5Sj4ZEA",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 88421468,
+            "user": "oshiimaaa",
+            "date": "01-03-2025",
+            "link": "https://www.youtube.com/watch?v=7PrWTGSy1nE",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 88421468,
+            "user": "painguyn",
+            "date": "04-07-2025",
+            "link": " https://youtu.be/EH8jxBg_2Do",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 88421468,
+            "user": "FastestBoyee",
+            "date": "06-08-2025",
+            "link": "https://www.youtube.com/watch?v=P8hy8tB3VNk",
+            "country": "Malaysia",
+            "percent": 100
+        }
+    ]
 }
