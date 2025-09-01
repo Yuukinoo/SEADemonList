@@ -2,9 +2,58 @@
     "id": 59209010,
     "name": "Spectrum Cyclone",
     "author": "lTemp",
-    "verifier": "adrianthedev",
+    "verifier": "Adrian",
     "country": "Philippines",
     "verification": "https://www.youtube.com/watch?v=6eShlyIqZLk",
     "percentToQualify": 69,
-    "records": []
+    "records": [
+        {
+            "level_id": 59209010,
+            "user": "MatsuoIsHere",
+            "date": "24-05-2021",
+            "link": "https://youtu.be/JB5beFRzHd4",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 59209010,
+            "user": "kay.",
+            "date": "07-06-2021",
+            "link": "https://youtu.be/N-UTDJ0LK-4",
+            "country": "Laos",
+            "percent": 100
+        },
+        {
+            "level_id": 59209010,
+            "user": "Abaddox",
+            "date": "06-02-2022",
+            "link": "https://youtu.be/Nknpq2om2bg",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 59209010,
+            "user": "mephhh",
+            "date": "22-11-2023",
+            "link": "https://youtu.be/8-enShIsdxM",
+            "country": "Vietnam",
+            "percent": 100
+        },
+        {
+            "level_id": 59209010,
+            "user": "StarXV",
+            "date": "07-06-2024",
+            "link": "https://youtu.be/GT6AROl8mpU",
+            "country": "Philippines",
+            "percent": 100
+        },
+        {
+            "level_id": 59209010,
+            "user": "chupano",
+            "date": "29-03-2025",
+            "link": "https://www.youtube.com/watch?v=peJexYqruzQ",
+            "country": "Indonesia",
+            "percent": 100
+        }
+    ]
 }
